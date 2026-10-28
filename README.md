@@ -1,2 +1,5 @@
 # python-eindopdracht
-Abdi-Eymen
+Abdi: loops & match-case
+Eymen: variables & if statements
+samen: lists
+
