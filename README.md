@@ -1,5 +1,9 @@
 # python-eindopdracht
+Abdi-Eymen
+
+# opdracht
 Abdi: loops & match-case
-Eymen: variables & if statements
-samen: lists
+eymen: variables & if statements
+samenwerken: lists
+
 
